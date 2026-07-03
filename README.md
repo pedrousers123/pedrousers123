@@ -1,6 +1,10 @@
-## Olá Sou o Pedro 👋
+## Hey,I´m  Pedro 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Front-End+no+SENAI;HTML+%7C+CSS+%7C+JavaScript;Sempre+aprendendo+novas+tecnologias." />
+</p>
 
 ### 🎬 What I Do
+
 
 <table>
 <tr>
