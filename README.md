@@ -42,3 +42,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+## 🛠️ Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode,figma"/>
+
+</p>
+
+
+
