@@ -101,6 +101,3 @@ Hands-on with printers, filaments, and projects. Real tests, honest takes.
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=pedrousers123&theme=tokyonight&hide_border=true"/>
-
-
-
